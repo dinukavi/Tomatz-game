@@ -1,0 +1,104 @@
+@import url('https://fonts.googleapis.com/css2?family=Poppins:wght@300;400;500;700;900&display=swap');
+
+
+body
+{
+    background-image:url("../images/sample\ page.jpg");
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    background-size: 100% 100%;
+    justify-items: center;
+}
+
+
+.container
+{
+    background-color: black;
+    color: #ffffff;
+    padding: 5px;
+    width: 30%;
+    text-align: center;
+    position: absolute;
+    top: 20%;
+    bottom: 20%;
+    left: 30%;
+    right: 30%;
+    text-align: middle;
+    font-size: 20px;
+    align-items: center;
+}
+
+.container text.a
+{
+    color: #fcfcfc;
+}
+
+.container text.button
+{
+    -webkit-text-fill-color: rgb(10, 10, 10);
+    background-color: rgb(179, 255, 0);
+    font-size: 20px;
+    outline-width: 10px;
+    -webkit-text-stroke: blue;
+    outline-color: blue;
+    -webkit-text-size-adjust: 20px;
+}
+
+
+.container h1
+{
+    -webkit-text-stroke: 0.8px rgb(223, 26, 19);
+    -webkit-text-fill-color:rgb(238, 238, 38);
+    font-size: 50px;
+    
+}
+
+.container h1.heading
+{
+    font-family: 'irish grover';
+    -webkit-text-stroke: 0.8px rgb(24, 209, 24);
+    -webkit-text-fill-color: rgb(218, 34, 34);
+    font-size: 30px;
+}
+
+.heading h1
+{
+    font-family: 'irish grover';
+    -webkit-text-stroke: 0.8px rgb(24, 209, 24);
+    -webkit-text-fill-color: rgb(218, 34, 34);
+    font-size: 30px;
+}
+
+.container a
+{
+    color: rgb(14, 66, 210);
+    font-size:larger;
+}
+
+
+button
+{
+    -webkit-text-fill-color: rgb(253, 253, 253);
+    background-color: fuchsia;
+    font-size: 20px;
+    outline-width: 10px;
+    -webkit-text-stroke: blue;
+    outline-color: blue;
+    -webkit-text-size-adjust: 20px;
+    border-color:deeppink;
+    border-radius: 10px;
+}
+
+
+
+div .img
+{
+    align-items: center;
+    justify-content: center;
+    left: 30%;
+    right: 30%;
+}
+
+
+
+
